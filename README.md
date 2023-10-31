@@ -7,7 +7,7 @@ I like to try and explore new technologies. I don't really have a preference whe
 🎓 I will graduate mid 2024 with a computer science degree but will most likely stay on the school's path until I get my software engineer diploma.  
 📚 [Currently] Collège Montmorency ➡ [2024-2025] Software engineering program.  
 ⚽️ Outside of the tech field, I do like to workout, especially calisthenics. I also enjoy watching football and esports.  
-🎮 Video games took a big part of my life. They indirectly help choose this path of life.
+🎮 Video games took a big part of my life. They indirectly help choose this path of life.  
 🌐 I like to follow the news and the cryptocurrency market.  
 🔎 Currently willing to learn more about cloud and mobile development (Flutter - Kotlin - Swift)
 
