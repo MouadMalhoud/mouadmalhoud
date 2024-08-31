@@ -9,7 +9,7 @@ I like to try and explore new technologies. I don't really have a preference whe
 ⚽️ Outside of the tech field, I do like to workout, especially calisthenics. I also enjoy watching football and esports.  
 🎮 Video games took a big part of my life. They indirectly help choose this path of life.  
 🌐 I like to follow the news and the cryptocurrency market.  
-🔎 Currently willing to learn more about cloud and mobile development (Flutter - Kotlin - Swift)
+🔎 Currently willing to learn more about everything, still choosing a path :)
 
 
 📫 Connect with me:  
