@@ -24,7 +24,7 @@ I like to try and explore new technologies. I don't really have a preference whe
 
 
 
-Let's code the future together! 💪✨ #CodeLife #OpenSource #TechEnthusiast #InspectAndAdapt  
+Let's code the future together! 
 ##
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MouadMalhoud)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouadMalhoud&theme=tokyonight)
